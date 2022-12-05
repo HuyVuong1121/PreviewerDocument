@@ -13,6 +13,7 @@ When it comes to previewing files, QuickLook is a great first choice. It comes w
 	- Augmented reality objects that use the USDZ file format, iOS and iPadOS only
 
 Example:
+
 ![](screenshots/example.gif)
 
 ## Usage
