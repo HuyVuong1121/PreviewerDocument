@@ -19,8 +19,6 @@ Example:
 ## Usage
 
  ```swift
- // MARK: - IBOutlet
-@IBOutlet private weak var sliderCustomView: CustomSlider!
 let screen = UIStoryboard(name: StoryboardName.DocumentPreviewer, bundle: nil).instantiateViewController(viewControllerType: DocumentPreviewer.self)
 screen.attactView(url: url, fileName: name)
 screen.modalPresentationStyle = .fullScreen
