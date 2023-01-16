@@ -1,6 +1,6 @@
 //
-//  QuickLookDocument.swift
-//  PreviewerDocument
+//  QuickLookPreview.swift
+//  QuickLookPreview
 //
 //  Created by HuyVuong on 05/12/2022.
 //
