@@ -1,6 +1,6 @@
 //
 //  DocumentPreviewer.swift
-//  PreviewerDocument
+//  DocumentPreviewer
 //
 //  Created by HuyVuong on 05/12/2022.
 //
